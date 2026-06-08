@@ -75,6 +75,7 @@ Machine Run Bit	W0.00
 
 
 ## Output
+<img width="1239" height="671" alt="image" src="https://github.com/user-attachments/assets/b2c2b333-9a00-442e-8dce-3d1bc1734d09" />
 
 
 
